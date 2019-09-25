@@ -1,6 +1,11 @@
 # Udemy course with React Native
 
-Build docker command
+Example Todo App created in the Basic Section of [this](https://www.udemy.com/react-native-the-practical-guide) course.
+
+## Docker image build 
+
+The URN_HOSTNAME var stores the hostname of the Computer (something like 192.168.0.##).
+With this I can set the hostname where expo is going to be.
 
 `
     URN_HOSTNAME=`hostname -I | grep -o "^\S*"`&&
@@ -10,7 +15,7 @@ Build docker command
     .
 `
 
-Run docker container
+## Docker container create
 
 `
     docker run 
