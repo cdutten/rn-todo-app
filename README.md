@@ -1,6 +1,6 @@
-# Udemy course with React Native
+# Todo App with React native
 
-Example Todo App created in the Basic Section of [this](https://www.udemy.com/react-native-the-practical-guide) course.
+Example Todo App created in the Basic Section of [this course](https://www.udemy.com/react-native-the-practical-guide).
 
 ## Docker image build 
 
